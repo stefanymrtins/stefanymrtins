@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-End e Suporte de TI/Redes`**
 
-Me chamo Stefany Martins, tenho 25 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniCarioca. Sou apaixonada por tecnologia e gosto de criar interfaces eficientes e acessíveis, e estou sempre buscando aprender mais para contribuir com soluções inovadoras.
+Me chamo Stefany Martins, tenho 25 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniCarioca. Sou apaixonada por tecnologia, com interesse especial em suporte de TI e redes, áreas nas quais gosto de resolver problemas, otimizar processos e garantir o bom funcionamento dos sistemas. Além disso, tenho entusiasmo em criar interfaces eficientes e acessíveis, sempre buscando aprender mais para contribuir com soluções inovadoras e que façam diferença no dia a dia das pessoas e das empresas.
 
 </p>
 
