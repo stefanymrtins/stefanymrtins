@@ -13,14 +13,6 @@ Me chamo Stefany Martins, tenho 25 anos e sou natural do Rio de Janeiro. Atualme
 ## 🛠️ Tools and Technologies:
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,mysql,git,github)](https://skillicons.dev)<br><br>
 
-## 👥 Projects and Initiatives:
-- I developed strategic resume templates optimized for ATS systems, which have already helped many tech professionals stand out in hiring processes and secure jobs..
-
-- I founded a community with over 2,000 members focused on helping tech professionals grow. We offer free and paid mentorships on resume creation and optimization, LinkedIn profile building, networking strategies, interview preparation, and career planning, helping our members achieve their goals.
-
-
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
