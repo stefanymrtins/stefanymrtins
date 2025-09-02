@@ -4,14 +4,6 @@
 
 Me chamo Stefany Martins, tenho 25 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniCarioca. Sou apaixonada por tecnologia e gosto de criar interfaces eficientes e acessíveis, e estou sempre buscando aprender mais para contribuir com soluções inovadoras.
 
-## <p align="center">  Hi, Techs! Great to see you here. 💜 
-
-<p align="rigth"> 
-Hey there! I’m an executive headhunter and career mentor with 7+ years of experience in high-impact results.
-Focused on tech, growth, and building meaningful connections.
-  
-Let’s create the next big move together. 
-
 </p>
 
 
