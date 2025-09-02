@@ -6,7 +6,7 @@ Me chamo Stefany Martins, tenho 25 anos e sou natural do Rio de Janeiro. Atualme
 
 <p align="left">
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/stefanymrtins?tab=followers">
         <img 
             alt="GitHub" 
             title="Me siga no GitHub" 
