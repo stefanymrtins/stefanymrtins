@@ -7,10 +7,10 @@ Me chamo Stefany Martins, tenho 25 anos e sou natural do Rio de Janeiro. Atualme
 </p>
 
 
-## 🚀 What I'm learning: 
+## 🚀 O que estou aprendendo: 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)<br><br>
 
-## 🛠️ Tools and Technologies:
+## 🛠️ Ferramentas e Tecnologias:
 [![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github)](https://skillicons.dev)<br><br>
 
 ### 🤖 Linguagens e Tecnologias
