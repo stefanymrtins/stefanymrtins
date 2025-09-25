@@ -2,7 +2,11 @@
 
 **`Desenvolvedora Front-End e Suporte de TI/Redes`**
 
-Me chamo Stefany Martins, tenho 25 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniCarioca. Sou apaixonada por tecnologia, com interesse especial em suporte de TI e redes, áreas nas quais gosto de resolver problemas, otimizar processos e garantir o bom funcionamento dos sistemas. Além disso, tenho entusiasmo em criar interfaces eficientes e acessíveis, sempre buscando aprender mais para contribuir com soluções inovadoras e que façam diferença no dia a dia das pessoas e das empresas.
+Olá! 👋 Sou Stefany Martins, estudante de Análise e Desenvolvimento de Sistemas na UniCarioca e apaixonada por tecnologia. Tenho experiência prática em suporte técnico e infraestrutura de redes, além de conhecimentos sólidos em HTML5, CSS3 e JavaScript, que aplico em projetos de desenvolvimento front-end.
+
+Atualmente, atuo no suporte de TI da CEPERJ, onde realizo atendimento a usuários, manutenção de hardware, instalação de softwares e monitoramento de redes. Essa vivência fortaleceu minhas habilidades de resolução de problemas e comunicação clara com equipes e clientes.
+
+Busco constantemente aprender e evoluir, seja criando interfaces funcionais e acessíveis, seja garantindo a estabilidade de sistemas e redes. Estou aberta a desafios que me permitam unir minhas habilidades em desenvolvimento front-end, suporte técnico e redes, contribuindo com soluções eficientes e inovadoras.
 
 </p>
 
